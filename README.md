@@ -8,3 +8,5 @@ Este repositorio tiene las prácticas y entregas de la materia de Sistemas Opera
 - [Práctica 2](./practica-2.md)
 
 Ya agregamos el archivo _.gitignore_ y la licencia.
+
+Haciendo cambios
