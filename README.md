@@ -9,4 +9,6 @@ Este repositorio tiene las prácticas y entregas de la materia de Sistemas Opera
 
 Ya agregamos el archivo _.gitignore_ y la licencia.
 
-Haciendo cambios y probando la opción _amend_
+Haciendo cambios y probando la opción _amend_.
+
+Creando la versión _1.0.0_ de este repositorio.
