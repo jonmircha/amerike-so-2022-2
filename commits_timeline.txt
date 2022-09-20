@@ -1,0 +1,21 @@
+* b34934a Haciendo un nuevo cambio
+*   0fdaeb2 Merge branch 'js'
+|\  
+| * 4106b4a Creando archivo script.js desde la rama js
+* |   30aaed3 Resolviendo conflictos de fusión main-css
+|\ \  
+| * | bdce992 Agregando info al index.html desde la rama css
+* | | cc6bb9c Agregando cambios al index.html desde main
+|/ /  
+* | 53d1c66 Creando archivo style.css desde la rama css
+* | 62f8bf4 Creando archivo index.html desde la rama html
+|/  
+* 368a763 Agregando temporales de OS X al git ignore
+*   7367dfa Merge branch 'main' of https://github.com/jonmircha/amerike-so-2022-2
+|\  
+| * 2cdfad3 Creando licencia del repositorio
+* | 7663ac5 Modificando el README
+|/  
+* e8f4306 Agregando archivo .gitignore
+* 83f5905 Modificando la descripción del README
+* 32c6bbf Primer commit, creando mi primer repositorio

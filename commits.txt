@@ -1,0 +1,92 @@
+commit b34934a0d510ccc2af0f715efd95525aa8828823
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Tue Sep 20 09:13:00 2022 -0500
+
+    Haciendo un nuevo cambio
+
+commit 0fdaeb2efe5a6d2ab2c6be9e98c7a2fb037a6a3d
+Merge: 30aaed3 4106b4a
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Tue Sep 13 10:34:36 2022 -0500
+
+    Merge branch 'js'
+
+commit 30aaed3d459c46989a4a4185837e35fadb0f43fb
+Merge: cc6bb9c bdce992
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Tue Sep 13 10:33:58 2022 -0500
+
+    Resolviendo conflictos de fusión main-css
+
+commit cc6bb9cbf6960346bde4aca8fa46d4a35cc51822
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Tue Sep 13 10:26:52 2022 -0500
+
+    Agregando cambios al index.html desde main
+
+commit bdce9923c80dabe10c0bc067cbc6423cb7ce4423
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Tue Sep 13 10:24:51 2022 -0500
+
+    Agregando info al index.html desde la rama css
+
+commit 4106b4a7360ab85a302310208da72e62d1d3e0fc
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Tue Sep 13 10:08:18 2022 -0500
+
+    Creando archivo script.js desde la rama js
+
+commit 53d1c6638edddb5611edacce2f313a44b16985c9
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Tue Sep 13 10:03:53 2022 -0500
+
+    Creando archivo style.css desde la rama css
+
+commit 62f8bf403f9c2c691ff79d82bdaea3181451b35c
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Tue Sep 13 09:49:55 2022 -0500
+
+    Creando archivo index.html desde la rama html
+
+commit 368a763b65577ed027a584cf029bdaf320b9a542
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Tue Sep 13 09:27:26 2022 -0500
+
+    Agregando temporales de OS X al git ignore
+
+commit 7367dfaa312aa8be92850909f7dfefa03cda1a54
+Merge: 7663ac5 2cdfad3
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Tue Sep 6 10:39:16 2022 -0500
+
+    Merge branch 'main' of https://github.com/jonmircha/amerike-so-2022-2
+
+commit 7663ac53106dfb656291efb8473d2d85a043c50f
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Tue Sep 6 10:37:59 2022 -0500
+
+    Modificando el README
+
+commit 2cdfad3175a19ef318b688ea879d2c50553f43ea
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Tue Sep 6 10:36:49 2022 -0500
+
+    Creando licencia del repositorio
+
+commit e8f430613652c367fde1e910b3a015bdd2266573
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Tue Sep 6 10:27:46 2022 -0500
+
+    Agregando archivo .gitignore
+
+commit 83f5905c13b701be60a143cd9465fc668afb88e3
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Sep 1 10:47:59 2022 -0500
+
+    Modificando la descripción del README
+
+commit 32c6bbf88434e3f054ef0c1df0b4ed0bc7b19525
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Thu Sep 1 10:44:10 2022 -0500
+
+    Primer commit, creando mi primer repositorio

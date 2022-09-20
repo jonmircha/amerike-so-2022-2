@@ -9,4 +9,4 @@ Este repositorio tiene las prácticas y entregas de la materia de Sistemas Opera
 
 Ya agregamos el archivo _.gitignore_ y la licencia.
 
-Haciendo cambios
+Haciendo cambios y probando la opción _amend_
