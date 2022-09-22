@@ -52,6 +52,15 @@ Hola, me gusta la pizza, escuchar música y los videojuegos
 
 ![Edgar](https://cdn.discordapp.com/attachments/1013548438438301887/1022527426703654943/IMG_20220904_200114_863.jpg)
 
+### Santiago Mondragon Ramirez 
+
+Soy alumno de amerike y me apasiona aprender y crear cosas nuevas apartir de mi creatividad.
+
+- [cdmx2162@amerike.edu.mx](cdmx2162@amerike.edu.mx)
+- [GitHub](https://github.com/SantiDEV2)
+
+![Img](https://media.discordapp.net/attachments/948289759120351302/1022522600334823424/31896423-714D-4D42-BE2F-62B7CE28F12E.jpg?width=385&height=513)
+
 ### Luis Alfonso Martin Velazquez
 
 Hola Soy Luis, pero me gusta que me digan Dante, tengo una obseción con el código y los mapaches, espero algún dia las personas escuchen mis mensajes.
