@@ -22,6 +22,8 @@ Profesor, programador web y creador de contenidos ubicado en México.
 ## Estudiantes
 
 
+<<<<<<< HEAD
+=======
 ### Oscar Yair Núñez Hernández
 
 Hola, soy Oscar, alumno de Amerike en la carrera de Desarrollo de Software y Videojuegos.
@@ -41,6 +43,7 @@ Hola, soy José Julio Jiménez del Valle, estoy estudiando desarollo de videojue
 - [José Julio Jiménez del Valle](img/Jos%C3%A9Julio.jpg)
 
 
+>>>>>>> main
 
 
 
@@ -76,6 +79,13 @@ Hola, soy José Julio Jiménez del Valle, estoy estudiando desarollo de videojue
 
 
 
+<<<<<<< HEAD
+### Edgar Adrian Pinto Aquino
+Hola, me gusta la pizza, escuchar música y los videojuegos
+- [cdmx2110@amerike.edu.mx](cdmx2110@amerike.edu.mx)
+- [GitHub](https://github.com/EdgarPinto38)
+- ![Edgar](https://cdn.discordapp.com/attachments/1013548438438301887/1022527426703654943/IMG_20220904_200114_863.jpg)
+=======
 
 
 
@@ -140,3 +150,4 @@ Hola Soy Luis, pero me gusta que me digan Dante, tengo una obseción con el cód
 
 ---
 
+>>>>>>> main
