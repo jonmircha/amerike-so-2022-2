@@ -17,17 +17,6 @@ Profesor, programador web y creador de contenidos ubicado en México.
 
 ![Jonathan MirCha](img/jonmircha-hola.jpg)
 
----
-
-
-
-
-
-
-
-
-
-
 
 
 
