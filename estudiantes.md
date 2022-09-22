@@ -52,7 +52,9 @@ Hola, me gusta la pizza, escuchar música y los videojuegos
 
 ![Edgar](https://cdn.discordapp.com/attachments/1013548438438301887/1022527426703654943/IMG_20220904_200114_863.jpg)
 
-### Santiago Mondragon Ramirez 
+---
+
+### Santiago Mondragon Ramirez
 
 Soy alumno de amerike y me apasiona aprender y crear cosas nuevas apartir de mi creatividad.
 
