@@ -21,6 +21,15 @@ Profesor, programador web y creador de contenidos ubicado en México.
 
 ## Estudiantes
 
+### Maximiliano Ibarra Rojas
+
+Hola, Me llamo Maximiliano y estudio la la licenciatura en software interactivo y videojuegos
+
+- [cdmx2254@amerike.edu.mx](cdmx2254@amerike.edu.mx)
+- [MaxIb62](https://github.com/MaxIb62)
+
+![Max](./img/IMG_1350.jpeg)
+
 
 
 
