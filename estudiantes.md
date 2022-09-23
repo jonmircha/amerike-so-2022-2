@@ -399,7 +399,7 @@ Profesor, programador web y creador de contenidos ubicado en México.
 
 ### ELLIOT JOHAN REYES MENDOZA
 
-Mi nombre es elliot reyes o como me conocen algunos Atraxx soy un estudiante de amerike y me gusta mucho aprender nuevas cosas a tra vez de la tecnologia, a su vez estuidio gastronomia y trabajo, me gusta mucho convivir con las personas.
+Mi nombre es elliot reyes o como me conocen algunos Atraxx soy un estudiante de amerike y me gusta mucho aprender nuevas cosas a tra vez de la tecnologia, a su vez estuidio gastronomia y trabajo, me gusta mucho convivir con las personas para un mejor ambiente.
 
 - [cdmx2218@amerike.edu.mx](cdmx2218@amerike.edu.mx)
 - [AtraxxDev](https://github.com/AtraxxDev)
