@@ -105,3 +105,13 @@ La mejor persona que podrían llegar a conocer.
 ![Edson](https://media.discordapp.net/attachments/948289759120351302/1022522816207261779/IMG_20220916_223246_349.jpg?width=394&height=493)
 
 ---
+
+
+### Elliot Reyes
+
+Hola me llamo Elliot o me conocen como atraxx me gusta conocer gente, tomar muchas fotos  y actualmente tambien estudio gastronomia en sabatino. PD: No robo en minecraft :c
+
+- [cdmx2218@amerike.edu.mx](cdmx2218@amerike.edu.mx)
+- [Mi GitHub](https://github.com/AtraxxDev)
+
+![Elliot](https://scontent.fmex24-1.fna.fbcdn.net/v/t39.30808-6/307094030_2316834081799866_2345401361552936525_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=CZjf_h54YFIAX-ehv5K&_nc_ht=scontent.fmex24-1.fna&oh=00_AT9AwOOWmMsezMUcmqMQwePsRbwW_kOhFnrmzASVeiGkUA&oe=6331A78F)
