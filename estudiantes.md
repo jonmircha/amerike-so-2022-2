@@ -303,7 +303,6 @@ Profesor, programador web y creador de contenidos ubicado en México.
 
 ### Ana Teresa Rodríguez Bello
 
-<<<<<<< HEAD
 Soy Ana, estoy estudiando desarrollo de videojuegos en Amerike, me gustan los gatos  y marvel. 
 
 - [Mi correo](cdmx2111@amerike.edu.mx)
@@ -312,14 +311,7 @@ Soy Ana, estoy estudiando desarrollo de videojuegos en Amerike, me gustan los ga
 ![Mi foto](https://media.discordapp.net/attachments/1022527573013565571/1022527602616967230/IMG_20220922_101825.jpg?width=921&height=630)
 
 ---
-=======
-Soy Ana, me gustan los gatos, estoy estudiando desarrollo de videojuegos en Amerike; también me gusta escuchar música :P
 
-- [Mi correo de Amerike](cdmx2111@amerike.edu.mx)
-- [Mi perfil de _GitHub_](https://github.com/AnaRB29)
-
-![Ana](https://media.discordapp.net/attachments/1022527573013565571/1022527602616967230/IMG_20220922_101825.jpg?width=750&height=513)
-=======
 ### Oscar Yair Núñez Hernández
 
 Hola, soy Oscar, alumno de Amerike en la carrera de Desarrollo de Software y Videojuegos.
@@ -328,19 +320,9 @@ Hola, soy Oscar, alumno de Amerike en la carrera de Desarrollo de Software y Vid
 - [_GitHub_](https://github.com/OzcarDev)
 
 ![OzcarDEv](https://scontent.fmex1-5.fna.fbcdn.net/v/t39.30808-6/300959779_1252390975580855_3657386256869200139_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=pd8eOstm_00AX_GpmCJ&tn=uaTguGwo22WX-CA2&_nc_ht=scontent.fmex1-5.fna&oh=00_AT-kyuFnuDYPRoBdslB_GUvDBOOYz-WzGhkul_w8JErgIQ&oe=6330D2B9)
->>>>>>> 27c1aef68d530e9366721ea955e239a28dfd1daf
+
 
 ---
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-=======
 
 
 
