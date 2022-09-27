@@ -1,6 +1,6 @@
 # Luisa Soriano Gómez
 
-Hola, soy Luisa Soriano estudiante de la carrera de Desarrollo de software interactivo y videojuegos en la universidad Amerike.
+Hola, soy Luisa Soriano estudiante de la carrera de Desarrollo de software interactivo y videojuegos en la universidad Amerike:).
 
 - [cdmx1995@amerike.edu.mx](cdmx1995@amerike.edu.mx)
 - [GitHub](https://https://github.com/Wichota)
