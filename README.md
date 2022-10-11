@@ -2,6 +2,10 @@
 
 Este repositorio tiene las prácticas y entregas de la materia de Sistemas Operativos y Redes que imparto en Amerike.
 
+## Documentos Bases de Datos
+
+- [Entidades y Atributos](./bd/01_EntidadesAtributos.md).
+
 ## Prácticas parcial 1
 
 - [Práctica 1](./practica-1.md)
