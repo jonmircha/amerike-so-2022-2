@@ -5,6 +5,7 @@ Este repositorio tiene las prácticas y entregas de la materia de Sistemas Opera
 ## Documentos Bases de Datos
 
 - [Entidades y Atributos](./bd/01_EntidadesAtributos.md).
+- [Hoja de Cálculo de Entidades y Atributos](./bd/02RegistrosEntidadesAtributos.xlsx).
 
 ## Prácticas parcial 1
 
