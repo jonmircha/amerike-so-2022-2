@@ -13,23 +13,35 @@ Lo primero que tenemos que hacer al diseñar una base de datos es hacer un lista
 
 ### Clientes
 
-- Nombre
-- Apellidos
-- Teléfono
-- Correo Electrónico
-- Dirección
-- Código Postal
+- cliente_id (**PK**)
+- nombre
+- apellidos
+- telefono
+- email
+- direccion
+- cp
+- ciudad
+- pais
 
 ### Productos
 
-- Nombre
-- Descripción
-- Foto
-- Precio
-- Cantidad
+- producto_id (**PK**)
+- nombre
+- descripcion
+- foto
+- precio
+- cantidad
 
-### Pedidos / Ventas
+### Ventas
 
-- Cliente
-- Producto
-- Fecha y hora de compra
+- venta_id (**PK**)
+- cliente_id (**FK**)
+- producto_id (**FK**)
+- fecha
+
+### Artículos X Venta
+
+- articulo_id (**PK**)
+- venta_id (**FK**)
+- producto_id (**FK**)
+- cantidad
