@@ -1,12 +1,15 @@
-# Diseño de Bases de Datos:
+# Bases de Datos:
 
-## Sistema de ventas en línea
+## Diseño de BDs
 
 1. Identificar las entidades del sistema.
 1. Identificar los atributos de las entidades.
 1. Identificar llaves primarias y foráneas.
 1. Asignar una nomenclatura adeacuada a las entidades y sus atributos.
+1. Identificar las entidades pivote del sistema.
 1. Identificar los catálogos del sistema.
+
+### Sistema de ventas en línea
 
 ## Entidades y Atributos
 
@@ -52,6 +55,10 @@ Lo primero que tenemos que hacer al diseñar una base de datos es hacer un lista
 - pais_id (**PK**)
 - nombre
 - dominio
+
+## Pivotes
+
+Las entidades pivotes son las que relacionan la información de 2 o más entidades. Nos ayudan a mantener consistencia e integridad en nuestro sistema y evitan la duplicidad de datos.
 
 ## Catálogos
 
