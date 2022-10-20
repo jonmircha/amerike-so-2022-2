@@ -1,19 +1,68 @@
-# Bases de Datos:
+# Bases de Datos
 
 ## Diseño de BDs
 
 1. Identificar las entidades del sistema.
 1. Identificar los atributos de las entidades.
-1. Identificar llaves primarias y foráneas.
+1. Identificar las llaves primarias y foráneas.
 1. Asignar una nomenclatura adeacuada a las entidades y sus atributos.
 1. Identificar las entidades pivote del sistema.
 1. Identificar los catálogos del sistema.
+1. Identificar los tipos de relaciones del sistema.
 
-### Sistema de ventas en línea
+## Entidades
 
-## Entidades y Atributos
+Una **entidad** es un objeto del mundo real que se pretende controlar dentro del sistema, por ejemplo: una persona, un producto, una cuenta, un servicio, una empresa, una compra, etc.
 
-Lo primero que tenemos que hacer al diseñar una base de datos es hacer un listado de las entidades y sus atributos, que se verán involucrados en el modelo de nuestra base de datos.
+Las entidades al ser objetos, van a tener características que las describen, a estas propiedades se les llama **atributos** de la entidad.
+
+Por ejemplo la entidad persona tiene atributos tales como: nombre, apellidos, fecha de nacimiento, domicilio, teléfono, correo, etc.
+
+Lo primero que tenemos que hacer al diseñar una base de datos es hacer un listado de las entidades que se verán involucradas en el sistema y de sus atributos.
+
+### Tipos de Entidades
+
+#### De Datos
+
+Las entidades de datos son aquellas que alimentan de información el sistema. En ellas se interactúa y almacenan los datos.
+
+#### Pivotes
+
+Las entidades pivotes son las que **relacionan** la información de 2 o más entidades. Nos ayudan a mantener consistencia e integridad en el sistema y evitan la duplicidad de datos. También suelen llamarse entidades de enlace o asociación.
+
+Por ejemplo en el proceso de una venta, una entidad pivote puede almacenar la relación de qué y cuántos productos se adquirieron en dicha venta, además de relacionar dichos productos con la información del cliente que los compró.
+
+#### Catálogos
+
+Los catálogos son entidades que sus registros son una lista o relación ordenada con algún criterio y por tal motivo su información debe estar precargada en el sistema, antes de comenzar a introducir información en el.
+
+Una lista de códigos postales, colonias, municipios, cuidades o países son un buen ejemplo de entidades cátalogo.
+
+##### Códigos Postales
+
+- [Códigos Postales México](https://datos.gob.mx/busca/dataset/catalogo-nacional-de-codigos-postales)
+- [CPs México en formato TXT](https://www.correosdemexico.gob.mx/datosabiertos/cp/cpdescarga.txt)
+- [Consulta de CPs México](https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/Descarga.aspx)
+
+##### Países
+
+- [Información Paises](https://gist.github.com/brenes/1095110)
+
+## Relaciones
+
+Las relaciones son asociaciones entre entidades que se crean para recuperar y vincular datos.
+
+Para crear una relación semánticamente utiliza un **verbo** para relacionar las entidades en cuestión.
+
+### Tipos de Relaciones
+
+- **1 a 1**: Un esposo _(e)_ está casado _(r)_ con una única esposa _(e)_ y viceversa.
+- **1 a M**: Una factura _(e)_ se emite _(r)_ a una persona _(e)_ y sólo a una, pero una persona _(e)_ puede tener _(r)_ varias facturas _(e)_ emitidas a su nombre. Todas las facturas _(e)_ se emiten _(r)_ a nombre de alguien _(e)_.
+- **M a M**: Un cliente _(e)_ puede comprar _(r)_ varios productos _(e)_ y un producto _(e)_ puede ser comprado _(r)_ por varios clientes _(e)_.
+
+---
+
+## Sistema de ventas en línea
 
 ### clientes
 
@@ -56,20 +105,9 @@ Lo primero que tenemos que hacer al diseñar una base de datos es hacer un lista
 - nombre
 - dominio
 
-## Pivotes
+### Relaciones
 
-Las entidades pivotes son las que relacionan la información de 2 o más entidades. Nos ayudan a mantener consistencia e integridad en nuestro sistema y evitan la duplicidad de datos.
-
-## Catálogos
-
-Los catálogos son entidades que sus registros son una lista o relación ordenada con algún criterio de datos y por tal motivo su información debe estar precargada en la base de datos, antes de comenzar a introducir información en ella.
-
-### Códigos Postales
-
-- [Códigos Postales México](https://datos.gob.mx/busca/dataset/catalogo-nacional-de-codigos-postales)
-- [CPs México en formato TXT](https://www.correosdemexico.gob.mx/datosabiertos/cp/cpdescarga.txt)
-- [Consulta de CPs México](https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/Descarga.aspx)
-
-### Países
-
-- [Información Paises](https://gist.github.com/brenes/1095110)
+1. Un **cliente** tiene **país** (_1 - 1_).
+1. Una **venta** poseé **cliente** (_1 - M_).
+1. Un **artículo** pertenece a una **venta** (_1 -M_).
+1. Un **artículo** es un **producto** (_1 - 1_).
