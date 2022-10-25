@@ -111,3 +111,7 @@ Para crear una relación semánticamente utiliza un **verbo** para relacionar la
 1. Una **venta** poseé **cliente** (_1 - M_).
 1. Un **artículo** pertenece a una **venta** (_1 -M_).
 1. Un **artículo** es un **producto** (_1 - 1_).
+
+### Modelo Relacional de la Base de Datos
+
+![Modelo Relacional](ModeloRelacionalBD.png)
