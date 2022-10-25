@@ -9,6 +9,8 @@
 1. Identificar las entidades pivote del sistema.
 1. Identificar los catálogos del sistema.
 1. Identificar los tipos de relaciones del sistema.
+1. Crear el Modelo Entidad-Relación del sistema.
+1. Crear el Modelo Relacional de la base de datos del sistema.
 
 ## Entidades
 
