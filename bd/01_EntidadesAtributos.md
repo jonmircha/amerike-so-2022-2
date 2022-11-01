@@ -11,6 +11,9 @@
 1. Identificar los tipos de relaciones del sistema.
 1. Crear el Modelo Entidad-Relación del sistema.
 1. Crear el Modelo Relacional de la base de datos del sistema.
+1. Identificar los tipos de dato de los atributos de las entidades del sistema.
+1. Identificar los atributos que puedan ser únicos en el sistema.
+1. Identificar las reglas de negocio (Operaciones _CRUD_) del sistema.
 
 ## Entidades
 
@@ -76,7 +79,7 @@ Para crear una relación semánticamente utiliza un **verbo** para relacionar la
 - direccion
 - cp
 - ciudad
-- pais_id (**FK**)
+- pais (**FK**)
 
 ### productos
 
@@ -117,3 +120,50 @@ Para crear una relación semánticamente utiliza un **verbo** para relacionar la
 ### Modelo Relacional de la Base de Datos
 
 ![Modelo Relacional](ModeloRelacionalBD.png)
+
+### Reglas de Negocio
+
+#### clientes
+
+1. Crear un cliente.
+1. Leer todos los clientes.
+1. Leer un cliente en particular.
+1. Actualizar un cliente.
+1. Eliminar un cliente.
+
+#### productos
+
+1. Crear un producto.
+1. Leer todos los productos.
+1. Leer un producto en particular.
+1. Actualizar un producto.
+1. Eliminar un producto.
+
+#### ventas
+
+1. Crear una venta.
+1. Leer todas las ventas.
+1. Leer una venta en particular.
+1. Leer todas las ventas de un cliente.
+1. Leer todas las ventas de un producto.
+1. Actualizar una venta.
+1. Eliminar una venta.
+
+#### articulos_x_venta
+
+1. Crear un artículo.
+1. Leer todos los artículos.
+1. Leer un artículo en particular.
+1. Leer todos los artículos de una venta.
+1. Leer todos los artículos de un producto.
+1. Leer todos los artículos de un cliente.
+1. Actualizar un artículo.
+1. Eliminar un artículo.
+
+#### paises
+
+1. Crear un pais.
+1. Leer todos los paises.
+1. Leer un país en particular.
+1. Actualizar un país.
+1. Eliminar un país.
