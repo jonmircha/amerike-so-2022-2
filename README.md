@@ -1,4 +1,4 @@
-# Jonthan MirCha
+# Jonathan MirCha
 
 Este repositorio tiene las prácticas y entregas de la materia de Sistemas Operativos y Redes que imparto en Amerike.
 
