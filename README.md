@@ -6,6 +6,7 @@ Este repositorio tiene las prácticas y entregas de la materia de Sistemas Opera
 
 - [Entidades y Atributos](./bd/01_EntidadesAtributos.md).
 - [Hoja de Cálculo de Entidades y Atributos](./bd/02RegistrosEntidadesAtributos.xlsx).
+- [Teoría _SQL_](./bd/SQL.md).
 
 ## Prácticas parcial 1
 
