@@ -1,0 +1,6 @@
+﻿producto_id,nombre,descripcion,foto,precio,cantidad
+1,Computadora,Macbook Air M2,https://images.macrumors.com/t/q-5kInZZC0CU3HsHL3HyBIHYWKQ=/1600x0/article-new/2022/06/M2-MacBook-Air-2022-Feature0012.jpg," $30,000.00 ",5
+2,Celular,Motorola G9,https://s1.eestatic.com/2020/11/05/elandroidelibre/el_androide_libre_533709502_180297806_1200x675.jpg," $6,000.00 ",10
+3,Cámara Web,Logitech C920,"https://m.media-amazon.com/images/S/aplus-media/vc/614bdd15-3677-4df6-be81-28a046f10d55._CR0,0,1464,600_PT0_SX1464__.jpg"," $1,500.00 ",19
+4,Micrófono,Blue Yeti,https://www.coimprit.com.mx/wp-content/uploads/2021/11/988-000100-04.jpg," $2,500.00 ",19
+5,Audífonos,Audífonos Bose,https://m.media-amazon.com/images/I/41jSuUHT8eL._AC_.jpg," $6,500.00 ",10
