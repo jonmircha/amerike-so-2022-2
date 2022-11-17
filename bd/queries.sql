@@ -1,3 +1,45 @@
+/* Queries vistas en clase */
+SELECT * FROM clientes;
+
+SELECT nombre, apellidos, telefono, email FROM clientes;
+
+SELECT nombre, apellidos, telefono, email FROM clientes WHERE apellidos = "Miranda";
+
+SELECT nombre, apellidos, telefono, email FROM clientes WHERE apellidos IN ("Miranda", "Campos");
+
+SELECT * FROM paises;
+
+
+SELECT * FROM paises WHERE nombre LIKE "A%";
+
+SELECT * FROM paises WHERE nombre LIKE "%A";
+
+SELECT * FROM paises WHERE nombre LIKE "A%" AND dominio LIKE "A%";
+
+SELECT * FROM paises WHERE nombre LIKE "A%" OR dominio LIKE "Z%";
+
+SELECT * FROM paises WHERE nombre NOT LIKE "A%" AND nombre NOT LIKE "B%";
+
+
+INSERT INTO paises (nombre, dominio) VALUES ("Nuevo Pais", "np");
+
+SELECT * FROM paises WHERE pais_id = 141;
+
+UPDATE paises SET nombre = "Nuevo País", dominio = "nc" WHERE pais_id = 249;
+
+SELECT * FROM paises WHERE pais_id = 249;
+
+DELETE FROM paises WHERE pais_id = 249;
+
+SELECT * FROM clientes AS c
+	INNER JOIN paises AS p
+	ON c.pais = p.pais;
+
+SELECT c.nombre, c.apellidos, c.telefono, c.email, p.nombre AS pais FROM clientes AS c
+	INNER JOIN paises AS p
+	ON c.pais = p.pais_id;
+
+
 /* Reglas de Negocio */
 
 /* clientes */
